@@ -5,7 +5,6 @@ To launch -
 * Install mysql 5.7 server.
 * Run script in parent/resource-server/src/main/resources/databases/database_initialization
 * Set the following properties to true in parent/resource-server/src/main/resources/application.properties
-** # Hibernate
 ** reset.images=false
 ** reset.auth.database=false
 ** reset.api.database=false
